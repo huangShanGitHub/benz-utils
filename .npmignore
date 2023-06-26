@@ -1,0 +1,6 @@
+# .npmigore
+/node_modules
+npm-debug.log
+/src
+/examples
+/build
